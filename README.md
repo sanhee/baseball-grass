@@ -4,7 +4,10 @@
 
 
   ## 시연
-  ![Untitled_ May 7, 2021 4_13 PM](https://user-images.githubusercontent.com/71962505/117412133-5fd4f080-af4f-11eb-8a40-8ce6b8bb16da.gif)
+
+https://user-images.githubusercontent.com/73760074/119217728-1243b080-bb17-11eb-824e-f5e6be70b774.mov
+
+
 
 
   ## 팀원
